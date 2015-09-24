@@ -1,3 +1,8 @@
+/*
+ * builder pattern must have all the part for building
+ * dirctor must give the correct order of building
+ */
+
 // Builder
 interface BuilderPattern {
 	public boolean addName();
